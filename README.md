@@ -8,7 +8,7 @@ This Python application allows you to record your screen with ease. Built entire
 - Save the recording to the specified file location.
 
 ## Screenshots
-![Screen Recorder App](![screen recorder](https://github.com/jmugambwa1/Screen-Recorder/assets/157279590/ec20b450-52cb-42c9-a08a-c1e1aed09bfa)
+[screen recorder](https://github.com/jmugambwa1/Screen-Recorder/assets/157279590/ec20b450-52cb-42c9-a08a-c1e1aed09bfa)
 )
 
 ## Installation
